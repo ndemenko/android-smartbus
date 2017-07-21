@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestGreen</string>
+    <string name="from_date">Transfering date: </string>
+    <string name="from_time">Transfering time: </string>
+    <string name="to_date">Arrival date: </string>
+    <string name="to_time">Arrival time: </string>
+    <string name="price">"Price: "</string>
+    <string name="way">Way: </string>
+    <string name="showing">Showing</string>
+    <string name="loading_ready">Loading ready</string>
+    <string name="numb_marsh">Way number: </string>
+    <string name="from_info">Transfering info: </string>
+    <string name="to_info">"Arrival info: "</string>
+    <string name="numb_bus">Bus number: </string>
+    <string name="loaded">Loaded!</string>
+    <string name="permissionsError">Please, allow all permissions!</string>
+    <string name="grn">uah.</string>
+    <string name="info">Information: </string>
+    <string name="find">Find</string>
+    <string name="pickFromDate">Pick transfering date</string>
+    <string name="pickToDate">Pick arrival date</string>
+
+</resources>

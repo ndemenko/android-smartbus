@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestGreen</string>
+    <string name="from_date">Дата отправки: </string>
+    <string name="from_time">Время отправки: </string>
+    <string name="to_date">Дата прибытия: </string>
+    <string name="to_time">Время прибытия: </string>
+    <string name="price">Цена: </string>
+    <string name="way">Маршрут: </string>
+    <string name="showing">Отображение</string>
+    <string name="loading_ready">Загрузка завершина</string>
+    <string name="numb_marsh">№ Маршрута: </string>
+    <string name="from_info">Инф. об отправке: </string>
+    <string name="to_info">Инф. о прибытие: </string>
+    <string name="numb_bus">№ автобуса: </string>
+    <string name="loaded">Загружено!</string>
+    <string name="permissionsError">Пожалуйста, дайте приложению разрешение!</string>
+    <string name="grn">грн.</string>
+    <string name="info">Информация:</string>
+    <string name="find">Поиск</string>
+    <string name="pickToDate">Выберите дату прибытия</string>
+    <string name="pickFromDate">Выберите дату отправки</string>
+
+</resources>

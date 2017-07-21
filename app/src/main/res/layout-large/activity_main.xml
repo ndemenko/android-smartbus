@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    tools:context="com.test.testgreen.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <fragment class="com.test.testgreen.fragment.RoutesListFragment"
+            android:id="@+id/list_frag"
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="match_parent"
+            tools:layout="@layout/fragment_layout"/>
+        <!-- "Fragment B" -->
+        <fragment class="com.test.testgreen.fragment.RouteInfoFragment"
+            android:id="@+id/details_frag"
+            android:layout_width="0dp"
+            android:layout_weight="7"
+            android:layout_height="match_parent"
+            tools:layout="@layout/fragment_info"/>
+    </LinearLayout>
+</RelativeLayout>
